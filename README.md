@@ -1,10 +1,6 @@
 # spring-boot-websocket-stomp-server-send-example
 Demo application that shows how to send a STOMP message using WebSockets from a server to a client
 
-# Real-Time Guestbook Demo Using STOMP Over WebSockets on Spring Boot
-
-This project demonstrates the use of [STOMP](https://stomp.github.io/) over WebSockets on Spring Boot to send data to multiple clients in real-time. For a more detailed explanation, visit the blog page at 
-
 ## Prerequisites
 
 - [Gradle](https://gradle.org/)
